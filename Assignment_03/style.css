@@ -1,0 +1,189 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+  padding-bottom: 70px;
+}
+
+.header{
+    height: 80px;
+    background-color: silver;
+}
+.btntop{
+  padding-left: 60px;
+}
+
+li>a:hover{
+  background-color: blue;
+}
+li>a{
+  color: black !important;
+}
+
+.logo{
+    width: 250px;
+    height: 100px;
+    padding: 15px;
+
+}
+.top{
+    height: 50px;
+    background-color: blue;
+    border: 2px solid black;
+    color: white;
+}
+
+.sli{
+  background-color: blue;
+  height: 40px;
+  color: white;
+  padding-left: 80px;
+}
+
+#logo1{
+  padding-left: 15%;
+}
+
+#logo2{
+  padding-left: 22%;
+}
+
+.introduction{
+  padding-left: 35%;
+  text-transform: uppercase;
+}
+
+#button-center{
+  padding-left: 40%;
+}
+
+.center{
+  padding:0% 10% 0 10%;
+  color: lightslategray
+}
+
+.info{
+  background-color: blue;
+  height: 300px;
+  width: 100%;
+}
+
+.icons{
+  padding-left: 30%;
+  color: white;
+  display: inline-block;
+}
+.icons1{
+  padding-left: 15%;
+  color: white;
+  display: inline-block;
+}
+
+.icons2grp{
+  padding-left: 50px;
+}
+.icons2:hover{
+  background-color: blue;
+}
+.icons2:hover{
+  color: silver;
+}
+.icon-center{
+  padding:0% 40% 0 40%;
+}
+.icon-center1{
+  padding-left: 115px;
+  text-transform: uppercase;
+  color: green;
+}
+
+.left{
+  display: inline;
+}
+.right{
+  background-color: blue;
+  display: inline;
+}
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 75%;
+}
+
+
+.col1{
+  padding-left:60px;
+  text-align: left;
+}
+.mission{
+  text-transform: uppercase;
+  color: green;
+  padding-left: 10px;
+}
+.icons-mission{
+  text-align: left;
+  margin: 0px 0 10px 0;
+  margin-left: 0;
+  padding-left: 0;
+}
+.hover:hover{
+  background-color: blue;
+}
+
+.Copyright{
+    height: 50px;
+    background-color: blue;
+    border: 2px solid black;
+    color: white;
+    vertical-align: bottom ;
+    text-align: right;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.9;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+    .fa-youtube {
+        background: #bb0000;
+        color: white;
+  }
+
+    .fa-instagram {
+        background: #d6249f;
+        color: white;
+  }
+
+  .fa-whatsapp {
+    background: #00dd89;
+    color: white;
+  }
+
+  .top-right{
+      float: right;
+      vertical-align: bottom;
+  }
